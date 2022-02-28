@@ -10,4 +10,7 @@
 
 3.) Dark Layer
 
-![Dark Layer](https://user-images.githubusercontent.com/93900628/155924186-a1ccb937-420b-464b-a59f-b3e259df75fb.png)
+![Dark Layer](https://user-images.githubusercontent.com/93900628/155924788-2c94a4f9-e5a5-46a3-b66f-31bbb59edb56.png)
+
+Dark Layer with the Major Earthquakes and Tectonic Plates
+![Screen Shot 2022-02-27 at 10 34 06 PM](https://user-images.githubusercontent.com/93900628/155924839-3cf98416-1e43-41bf-9b70-4b92fb9307ee.png)
